@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>41C1DE51-E2F6-4C2E-9FCF-6EB812165B57</string>
+	<key>IDESourceControlProjectName</key>
+	<string>First</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>34BA737A279AF8B973E2F177B82142D006EE4B96</key>
+		<string>https://github.com/alxcancado/First.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>First.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>34BA737A279AF8B973E2F177B82142D006EE4B96</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alxcancado/First.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>34BA737A279AF8B973E2F177B82142D006EE4B96</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>34BA737A279AF8B973E2F177B82142D006EE4B96</string>
+			<key>IDESourceControlWCCName</key>
+			<string>First</string>
+		</dict>
+	</array>
+</dict>
+</plist>
